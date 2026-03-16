@@ -1,0 +1,1 @@
+psql postgresql://interview_user:interview_pass@localhost:5432/interview_prep
