@@ -47,8 +47,8 @@ A production-ready interview preparation platform with AI assistance, built with
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/interview-prep-platform.git
-cd interview-prep-platform
+git clone https://github.com/ojhaChandu/Interview-prep-platform.git
+cd Interview-prep-platform
 ```
 
 ### 2. Backend Setup
